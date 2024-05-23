@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.prices {
+  display: flex;
+  padding: 20px;
+}
+.leftmadewel{
+margin-top: 190px
+}
+.madewel {
+  display: flex;
+  justify-content: space-around;
+}
+.madewelltext {
+  font-family: "Rubik", sans-serif;
+  font-weight: 900;
+  font-size: 64px;
+}
+.madewellparag {
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(47,57,59);
+}
+.madawelimage{
+    background: url("https://preview.colorlib.com/theme/dealers/images/new/person_transparent.png");
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 800px;
+    background-size: contain;
+}
+.buttons{
+    display: flex;
+}
+.shop1{
+    width: 130px;
+    height: 50px;
+    border: 1px solid blue;
+    color: blue;
+}
+.shop2{
+    width: 130px;
+    height: 50px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+.data{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* gap: 30px; */
+    
+}
+.image1{
+    width: 500px;
+    height: 600px;
+    border: 1px solid rgb(239,239,239);
+}
+.dataimage{
+    width: 300px;
+    height: 400px;
+}
+.detailbtn{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: green;
+    color: white;
+    margin-top: 30px;
+}
+.datatitle{
+    font-family: "Rubik", sans-serif;
+font-weight: 500;
+font-size: 24px;
+}
+.dataparag{
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.dataparag2{
+    color: rgb(189,183,189);
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}

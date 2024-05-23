@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.detailimg{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
+.detailtitle{
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+.detailprice{
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(47,57,59);
+}
+.details{
+    width: 400px;
+    height: 400px;
+    border: 1px solid rgb(239,239,239);
+    margin: auto;
+}
+.detaildelete{
+    margin-left: 130px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+.addimage{
+    width: 200px;
+    height: 200px;
+}
